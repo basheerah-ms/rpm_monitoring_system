@@ -1,0 +1,30 @@
+# Compiled files
+*.bin
+*.elf
+*.hex
+
+# Arduino build folders
+build/
+.arduino-build/
+.arduino/
+.pio/
+.pioenvs/
+.piolibdeps/
+.cache/
+.tmp/
+
+# VSCode / PlatformIO
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Personal configs
+secrets.h
+config.h
+wifi_config.h
